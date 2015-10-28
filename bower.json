@@ -1,0 +1,30 @@
+{
+  "name": "adapt-graphictxt",
+  "version": "2.0.0",
+  "framework": "^2.0.0",
+  "homepage": "https://github.com/gorhgorh/adapt-graphictxt",
+  "issues": "https://adaptlearning.atlassian.net/secure/CreateIssueDetails!init.jspa?pid=10100&issuetype=1&priority=6&components=10506",
+  "displayName": "Graphic Text",
+  "component": "graphictxt",
+  "assetFields": [
+    "_graphic.small",
+    "_graphic.large"
+  ],
+  "description": "Graphic component which dynamically displays small and large images of different resolutions based upon device width with some text attached",
+  "main": "/js/adapt-graphictxt.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0",
+    "commit": "e202deeded395d72bccaa600582ef3bdd1c7fb4f"
+  },
+  "_source": "git://github.com/gorhgorh/adapt-graphictxt.git",
+  "_target": "~2.0.0",
+  "_originalSource": "adapt-graphictxt",
+  "_direct": true
+}
